@@ -1,6 +1,6 @@
 # 3 Rs of Software Architecture
 
-![software architecture pyramid](https://github.com/MaatheusGois/3rs-of-software-architecture-for-iOS/assets/31082311/1ad8388e-40be-4157-a509-972ea0b8a881)
+![software architecture pyramid](https://github.com/MaatheusGois/3rs-of-software-architecture-for-iOS/assets/31082311/c6b14b44-54be-47c0-99a9-a6c807502124)
 
 ## Software Architecture
 
