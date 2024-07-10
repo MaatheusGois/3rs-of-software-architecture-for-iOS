@@ -636,6 +636,8 @@ Let's see what this more refactorable code looks like:
 ```swift
 // Example/GoodCode/GoodCode/Refactorability/States/Refactorability.CentralState.swift
 
+import SwiftUI
+
 class CentralState: ObservableObject {
     static let shared = CentralState()
 
@@ -714,6 +716,8 @@ struct Inventory: View {
 ```swift
 // Example/GoodCode/GoodCode/Refactorability/States/Refactorability.Cart.swift
 
+import SwiftUI
+
 struct Cart: View {
     @EnvironmentObject var centralState: CentralState
     private var currencyConverter = CurrencyConverter()
@@ -745,6 +749,8 @@ struct Cart: View {
 
 ```swift
 // Example/GoodCode/GoodCode/Refactorability/States/Refactorability.InventoryList.swift
+
+import SwiftUI
 
 struct InventoryList: View {
 
