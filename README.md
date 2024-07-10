@@ -1,4 +1,4 @@
-# 3 Rs of Software Architecture
+# 3 Rs of Software Architecture for iOS based in SwiftUI
 
 ![software architecture pyramid](https://github.com/MaatheusGois/3rs-of-software-architecture-for-iOS/assets/31082311/c21ae231-8908-47bc-9d44-2e6a32cd8603)
 
