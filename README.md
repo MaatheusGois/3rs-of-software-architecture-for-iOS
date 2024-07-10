@@ -458,6 +458,8 @@ struct Inventory: View {
 ```swift
 // Example/GoodCode/GoodCode/Reusability/Views/Reusability.InventoryList.swift
 
+import SwiftUI
+
 struct InventoryList: View {
 
     @State private var inventory = [
